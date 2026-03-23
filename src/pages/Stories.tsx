@@ -4,12 +4,12 @@ export default function Stories() {
   const examples = [
     {
       icon: Languages,
-      title: 'Language Revitalization Programs',
+      title: 'Language Programs',
       description:
         'Communities across Canada are bringing back Indigenous languages through school programs and apps.',
       example: 'Mi\'kmaw language classes in Nova Scotia',
       details:
-        'The Mi\'kmaw language program has successfully integrated traditional language instruction into schools, creating fluent speakers among young people and preserving this vital aspect of cultural identity.',
+        'The Mi\'kmaw language program has successfully integrated traditional language instruction into schools, making fluent speakers among young people and preserving a big part of cultural identity.',
       image: 'https://images.pexels.com/photos/8612983/pexels-photo-8612983.jpeg?auto=compress&cs=tinysrgb&w=800',
       color: 'from-orange-500 to-red-600',
     },
@@ -20,7 +20,7 @@ export default function Stories() {
         'Indigenous artists, dancers, and musicians preserve cultural traditions and educate the public.',
       example: 'Powwows, traditional drumming, and art exhibitions',
       details:
-        'Annual powwows bring together Indigenous communities to celebrate through dance, music, and art. These gatherings strengthen cultural connections and share traditions with broader audiences.',
+        'These annual powwows bring Indigenous communities together where they celebrate through dance, music, and art. These gatherings strengthen their connection with culture and share traditions with broader audiences.',
       image: 'https://images.pexels.com/photos/8612967/pexels-photo-8612967.jpeg?auto=compress&cs=tinysrgb&w=800',
       color: 'from-amber-500 to-orange-600',
     },
@@ -31,7 +31,7 @@ export default function Stories() {
         'Indigenous leaders advocate for land rights, environmental protection, and government recognition.',
       example: 'Idle No More movement',
       details:
-        'The Idle No More movement emerged as a powerful grassroots initiative advocating for Indigenous sovereignty, environmental protection, and respect for treaty rights, inspiring similar movements worldwide.',
+        'The Idle No More movement started as a powerful initiative where Indigenous communities came together to stand up for their rights, protect the environment, and demand respect for treaties. This inspired people around the world to take action as well.',
       image: 'https://images.pexels.com/photos/6207798/pexels-photo-6207798.jpeg?auto=compress&cs=tinysrgb&w=800',
       color: 'from-stone-600 to-amber-700',
     },
@@ -41,7 +41,7 @@ export default function Stories() {
       description: 'Programs addressing mental health, trauma recovery, and community support.',
       example: 'First Nations Wellness Programs',
       details:
-        'Community-led wellness initiatives combine traditional healing practices with contemporary mental health support, addressing intergenerational trauma and promoting holistic wellbeing.',
+        'The community wellness initiatives with the traditional healing practices addressed intergenerational trauma and improved wellbeing.',
       image: 'https://images.pexels.com/photos/8612987/pexels-photo-8612987.jpeg?auto=compress&cs=tinysrgb&w=800',
       color: 'from-emerald-600 to-teal-700',
     },
