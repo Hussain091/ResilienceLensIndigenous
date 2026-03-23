@@ -99,13 +99,14 @@ export default function Barriers() {
           </h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-amber-100 text-lg leading-relaxed mb-4">
-              It is essential to understand these barriers not to portray Indigenous communities as victims,
-              but to recognize the incredible strength it takes to maintain culture, community, and identity
-              despite these ongoing challenges.
+              It is important to learn about these challenges not to feel bad for Indigenous communities,
+              but to understand how much strength it takes to keep their culture, identity, and traditions alive.
+              Even with these difficulties, Indigenous communities continue to grow and support each other.
             </p>
             <p className="text-amber-100 text-lg leading-relaxed">
-              Indigenous resilience is demonstrated every day through resistance to these systemic inequities
-              and through the continued flourishing of Indigenous languages, cultures, and ways of life.
+              They show resilience everyday by protecting their languages, cultures,
+              and ways of life. This shows strength, determination, and the ability to keep going
+              even when facing unfair challenges.
             </p>
           </div>
         </div>
