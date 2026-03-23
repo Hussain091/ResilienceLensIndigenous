@@ -77,8 +77,7 @@ export default function Resources() {
           </p>
           <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-lg">
             <p className="text-stone-700">
-              <strong>Note:</strong> When citing this website or its content, please ensure you also reference
-              the original sources listed below.
+              <strong>Note:</strong>.
             </p>
           </div>
         </div>
@@ -123,8 +122,7 @@ export default function Resources() {
           </p>
           <div className="bg-amber-800/50 rounded-lg p-4 backdrop-blur-sm">
             <p className="text-amber-50 text-sm">
-              <strong>Image Credits:</strong> All images used on this website are from Pexels and are used
-              under their free license. Specific photo credits are available upon request.
+              <strong>Image Credits:</strong> All images used on this website are from Pexels.
             </p>
           </div>
         </div>
