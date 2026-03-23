@@ -11,7 +11,7 @@ export default function Home({ onNavigate }: HomeProps) {
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-stone-100">
       <div className="relative h-96 bg-gradient-to-r from-amber-900 to-orange-800 overflow-hidden">
         <img
-          src="https://images.pexels.com/photos/8612967/pexels-photo-8612967.jpeg?auto=compress&cs=tinysrgb&w=1920"
+          src="https://worldbank.scene7.com/is/image/worldbankprod/Screenshot-2024-08-08-20181199?wid=780&hei=439&qlt=85,0&resMode=sharp"
           alt="Indigenous ceremony and community gathering"
           className="absolute inset-0 w-full h-full object-cover opacity-30"
         />
