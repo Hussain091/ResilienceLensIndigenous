@@ -31,7 +31,7 @@ export default function Resilience() {
   const resilienceCycle = [
     { step: 'Historical Trauma', description: 'Colonization, residential schools, land loss' },
     { step: 'Adaptation', description: 'Communities find ways to survive and maintain identity' },
-    { step: 'Cultural Survival', description: 'Languages, traditions, and knowledge persist' },
+    { step: 'Cultural Survival', description: 'Languages, traditions, and knowledge continue to thrive' },
     { step: 'Community Strength', description: 'Collective healing and empowerment' },
   ];
 
