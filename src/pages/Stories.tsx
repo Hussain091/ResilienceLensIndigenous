@@ -120,9 +120,9 @@ export default function Stories() {
             These Are Just a Few Examples
           </h3>
           <p className="text-amber-100 text-lg max-w-3xl mx-auto">
-            Indigenous communities across Canada demonstrate resilience in countless ways every day. From language
-            revitalization to environmental stewardship, from artistic expression to political advocacy, these
-            efforts represent the ongoing strength and determination of Indigenous Peoples.
+            Indigenous communities across Canada demonstrate resilience every day. They do this by using their language, 
+            taking care of the environment and political advocacy. These efforts represent the ongoing 
+            resilience and determination of Indigenous Peoples.
           </p>
         </div>
       </div>
