@@ -4,7 +4,7 @@ export default function Support() {
   const actions = [
     {
       icon: Ear,
-      title: 'Listen to and amplify Indigenous voices',
+      title: 'Listen to Indigenous artists',
       description:
         'Follow Indigenous leaders, artists, and activists. Share their work and perspectives. Center Indigenous voices in conversations about Indigenous issues.',
       tips: [
@@ -26,12 +26,12 @@ export default function Support() {
     },
     {
       icon: Heart,
-      title: 'Support Indigenous-led initiatives and organizations',
+      title: 'Support Indigenous initiatives and organizations',
       description:
         'Contribute time, money, or resources to organizations led by Indigenous Peoples working on issues affecting their communities.',
       tips: [
-        'Shop from Indigenous-owned businesses',
-        'Donate to Indigenous-led charities',
+        'Shop from Indigenous owned businesses',
+        'Donate to Indigenous led charities',
         'Support Indigenous artists and cultural workers',
       ],
     },
@@ -107,8 +107,8 @@ export default function Support() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
           <p className="text-xl text-stone-700 leading-relaxed">
-            Being an ally means taking action to support Indigenous Peoples in their pursuit of justice,
-            equity, and self-determination. Here are meaningful ways you can contribute to supporting
+            Being an ally means taking action to support Indigenous Peoples so they can find justice,
+            equity, and self determination. Here are meaningful ways you can contribute to supporting
             Indigenous resilience.
           </p>
         </div>
@@ -178,9 +178,9 @@ export default function Support() {
         <div className="mt-12 bg-gradient-to-r from-emerald-700 to-teal-600 rounded-2xl shadow-xl p-8 md:p-12 text-center">
           <h3 className="text-2xl md:text-3xl font-bold text-white mb-4">Take Action Today</h3>
           <p className="text-emerald-50 text-lg max-w-3xl mx-auto">
-            Supporting Indigenous resilience is an ongoing commitment. Start with small, meaningful actions and
+            Supporting Indigenous resilience is an ongoing commitment. First start with something small, meaningful actions and
             continue learning and growing as an ally. Remember that this work is about supporting Indigenous
-            leadership and self-determination.
+            leadership and self determination.
           </p>
         </div>
       </div>
