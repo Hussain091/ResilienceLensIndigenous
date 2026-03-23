@@ -45,8 +45,8 @@ export default function Home({ onNavigate }: HomeProps) {
           </h2>
           <div className="prose prose-lg max-w-none text-stone-700 leading-relaxed">
             <p className="text-xl mb-4">
-              Resilience is the ability to recover, adapt, and thrive despite challenges. Indigenous Peoples
-              in Canada have demonstrated resilience throughout history and continue to do so today.
+              Resilience is the ability to "bounce back" from difficult experiences, stress, or failures, essentially adapting well when things go wrong. 
+              It means coping with challenges, managing emotions, and returning to normal functioning or even growing stronger after a setback (Dictionary. 2017).
             </p>
             <p className="text-lg">
               This website explores the resilience of Indigenous communities, the barriers they face, and how
