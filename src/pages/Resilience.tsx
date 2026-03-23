@@ -6,25 +6,25 @@ export default function Resilience() {
       icon: MessageCircle,
       title: 'Maintaining language and cultural practices',
       description:
-        'Preserving Indigenous languages through education programs, community use, and intergenerational transmission.',
+        'They preserved their languages by teaching them in schools, using them in everyday community life, and passing them down from elders to younger generations.',
     },
     {
       icon: Book,
       title: 'Passing knowledge through storytelling, ceremonies, and art',
       description:
-        'Sharing traditional knowledge, values, and teachings through oral traditions, cultural events, and artistic expression.',
+        'Indigenous people shared traditional knowledge, values, and teachings through oral traditions, cultural events, and artistic expression.',
     },
     {
       icon: Megaphone,
       title: 'Advocating for Indigenous rights and representation',
       description:
-        'Fighting for recognition, self-determination, and meaningful participation in decisions affecting Indigenous communities.',
+        'They fought for recognition, self-determination, and meaningful participation in decisions affecting Indigenous communities.',
     },
     {
       icon: Heart,
       title: 'Healing from historical trauma',
       description:
-        'Addressing intergenerational impacts of colonization through community-led healing initiatives and cultural reclamation.',
+        'They addressed intergenerational impacts of colonization through community healing initiatives and cultural reclamation.',
     },
   ];
 
@@ -52,14 +52,15 @@ export default function Resilience() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
-          <p className="text-xl text-stone-700 leading-relaxed mb-6">
-            Resilience for Indigenous Peoples in Canada is the ability to survive and thrive despite
-            centuries of colonization, oppression, and systemic barriers.
-          </p>
-          <p className="text-lg text-stone-600 leading-relaxed">
-            It involves preserving language, culture, traditions, and community connections while adapting to
-            changing circumstances.
-          </p>
+        <p className="text-xl text-stone-700 leading-relaxed mb-6">
+          Resilience for Indigenous Peoples in Canada is the ability to survive and thrive despite centuries of colonization, oppression, and systemic barriers. 
+          This is shown through the ways Indigenous communities have preserved their languages, cultures, and traditions, while still adapting and growing in the face of new challenges.
+            </p>
+
+<p className="text-lg text-stone-600 leading-relaxed">
+  The resilience is not just about overcoming the past, but also about continuing to protect identity, strengthen communities, and pass knowledge to future generations. 
+  Through storytelling, education, and cultural practices, Indigenous People maintain their connections to their land, history, and values, showing strength in the face of ongoing challenges.
+</p>
         </div>
 
         <h2 className="text-3xl font-bold text-amber-900 mb-8">Key Aspects of Indigenous Resilience</h2>
