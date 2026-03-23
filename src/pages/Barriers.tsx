@@ -61,6 +61,9 @@ export default function Barriers() {
             Even today, Indigenous Peoples in Canada face systemic inequities. Understanding these challenges
             helps us appreciate the importance of resilience and the ongoing need for meaningful change and
             reconciliation.
+            - 35 to 60% of the homeless population in Western Canada is Indigenous
+            - Suicide rates are 3x the national average in Indigenous communities
+            - These are not personal failures. They are the result of 150+ years of colonial policy
           </p>
         </div>
 
