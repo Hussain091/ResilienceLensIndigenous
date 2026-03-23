@@ -10,7 +10,7 @@ export default function Stories() {
       example: 'Mi\'kmaw language classes in Nova Scotia',
       details:
         'The Mi\'kmaw language program has successfully integrated traditional language instruction into schools, making fluent speakers among young people and preserving a big part of cultural identity.',
-      image: 'https://images.pexels.com/photos/8612983/pexels-photo-8612983.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.ualberta.ca/en/folio/media-library/2022/03/220331-indigenous-language-club-danni-okemaw-main-3000px.jpg',
       color: 'from-orange-500 to-red-600',
     },
     {
@@ -21,7 +21,7 @@ export default function Stories() {
       example: 'Powwows, traditional drumming, and art exhibitions',
       details:
         'These annual powwows bring Indigenous communities together where they celebrate through dance, music, and art. These gatherings strengthen their connection with culture and share traditions with broader audiences.',
-      image: 'https://images.pexels.com/photos/8612967/pexels-photo-8612967.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.theguardian.com/music/2025/sep/09/people-say-my-music-helps-them-heal-canadas-first-nations-musicians-revitalise-the-powwow#img-1',
       color: 'from-amber-500 to-orange-600',
     },
     {
@@ -32,7 +32,7 @@ export default function Stories() {
       example: 'Idle No More movement',
       details:
         'The Idle No More movement started as a powerful initiative where Indigenous communities came together to stand up for their rights, protect the environment, and demand respect for treaties. This inspired people around the world to take action as well.',
-      image: 'https://images.pexels.com/photos/6207798/pexels-photo-6207798.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://guelphmuseums.ca/wp-content/uploads/2023/01/Idle-No-More-1-e1673399551778-848x300.png',
       color: 'from-stone-600 to-amber-700',
     },
     {
@@ -42,7 +42,7 @@ export default function Stories() {
       example: 'First Nations Wellness Programs',
       details:
         'The community wellness initiatives with the traditional healing practices addressed intergenerational trauma and improved wellbeing.',
-      image: 'https://images.pexels.com/photos/8612987/pexels-photo-8612987.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://iphcc.ca/wp-content/uploads/2023/02/30-Supporting-indigenous-people-and-patients-1-scaled.jpeg',
       color: 'from-emerald-600 to-teal-700',
     },
   ];
