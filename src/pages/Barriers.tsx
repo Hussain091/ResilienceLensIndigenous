@@ -58,13 +58,15 @@ export default function Barriers() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
           <p className="text-xl text-stone-700 leading-relaxed">
-            Even today, Indigenous Peoples in Canada face systemic inequities. Understanding these challenges
-            helps us appreciate the importance of resilience and the ongoing need for meaningful change and
-            reconciliation.
-            - 35 to 60% of the homeless population in Western Canada is Indigenous
-            - Suicide rates are 3x the national average in Indigenous communities
-            - These are not personal failures. They are the result of 150+ years of colonial policy
-          </p>
+Even today, Indigenous Peoples in Canada face systemic inequities. Understanding these challenges helps us appreciate the importance of 
+            resilience and the ongoing need for meaningful change and reconciliation. </p>
+
+<ul className="mt-4 space-y-2 text-lg text-stone-700">
+  <li>• 35% to 60% of the homeless population in Western Canada is Indigenous</li>
+  <li>• Suicide rates in some Indigenous communities are about 3 times higher than the national average</li>
+  <li>• These challenges are not personal failures</li>
+  <li>• They are the result of over 150 years of colonial policies and systemic inequality</li>
+</ul>
         </div>
 
         <div className="space-y-8 mb-12">
