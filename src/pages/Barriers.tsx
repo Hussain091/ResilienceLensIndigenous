@@ -92,10 +92,11 @@ export default function Barriers() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
           <p className="text-xl text-stone-700 leading-relaxed">
-Even today, Indigenous Peoples in Canada face systemic inequities. Understanding these challenges helps us appreciate the importance of 
-            resilience and the ongoing need for meaningful change and reconciliation. </p>
+Resilience shows that barriers Indigenous people faced were not an accident rather the result of long-term government policies and systems. Even today, Indigenous Peoples in Canada face systemic inequities. Understanding these challenges helps us appreciate the importance of 
+            resilience and the ongoing need for meaningful change and reconciliation </p>
 
 <ul className="mt-4 space-y-2 text-lg text-stone-700">
+  <li>• Few Examples: </li>
   <li>• 35% to 60% of the homeless population in Western Canada is Indigenous</li>
   <li>• Suicide rates in some Indigenous communities are about 3 times higher than the national average</li>
   <li>• These challenges are not personal failures</li>
