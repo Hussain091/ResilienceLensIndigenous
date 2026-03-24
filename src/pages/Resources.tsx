@@ -77,7 +77,7 @@ export default function Resources() {
           </p>
           <div className="bg-amber-50 border-l-4 border-amber-600 p-4 rounded-r-lg">
             <p className="text-stone-700">
-              <strong>Note:</strong>.
+              <strong>Note:</strong> Not all citations listed here, others can be found on brainstorm document. 
             </p>
           </div>
         </div>
@@ -116,13 +116,13 @@ export default function Resources() {
         <div className="bg-gradient-to-r from-amber-900 to-orange-800 rounded-2xl shadow-xl p-8 md:p-12">
           <h2 className="text-2xl font-bold text-amber-50 mb-4">Additional Resources</h2>
           <p className="text-amber-100 leading-relaxed mb-6">
-            For further learning, we encourage you to explore the websites and resources listed above. Each
+            For further learning, explore the websites and resources listed above. Each
             organization offers valuable insights, educational materials, and opportunities to engage with
             Indigenous issues in meaningful ways.
           </p>
           <div className="bg-amber-800/50 rounded-lg p-4 backdrop-blur-sm">
             <p className="text-amber-50 text-sm">
-              <strong>Image Credits:</strong> All images used on this website are from Pexels.
+              <strong>Image Credits:</strong> All images used on this website are from Indigenous sources.
             </p>
           </div>
         </div>
