@@ -45,8 +45,9 @@ export default function Home({ onNavigate }: HomeProps) {
           </h2>
           <div className="prose prose-lg max-w-none text-stone-700 leading-relaxed">
             <p className="text-xl mb-4">
-              Resilience is the ability to "bounce back" from difficult experiences, stress, or failures, essentially adapting well when things go wrong. 
-              It means coping with challenges, managing emotions, and returning to normal functioning or even growing stronger after a setback (Dictionary. 2017).
+             Most people think resilience just means bouncing back (Oxford 2017). For Indigenous Peoples in Canada, it means refusing to disappear. Holding onto culture and language even when the law said you could not
+              Keeping traditions alive for the next generation. Choosing your community over and over, even when systems made that really hard. Through an anti-discriminatory lens, resilience shifts the whole story. Indigenous Peoples are not defined by what happened to them. They are defined by the fact that they kept going anyway.
+              Resilience is not a personality trait. It is a choice communities made for hundreds of years. And no amount of colonial pressure could take that away.
             </p>
             <p className="text-lg">
               This website explores the resilience of Indigenous communities, the barriers they face, and how
