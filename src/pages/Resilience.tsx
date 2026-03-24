@@ -60,8 +60,8 @@ export default function Resilience() {
             </p>
 
 <p className="text-lg text-stone-600 leading-relaxed">
-  The resilience is not just about overcoming the past, but also about continuing to protect identity, strengthen communities, and pass knowledge to future generations. 
-  Through storytelling, education, and cultural practices, Indigenous People maintain their connections to their land, history, and values, showing strength in the face of ongoing challenges (University of British Columbia, 2023).
+  The resilience done is not just about overcoming the past, but instead it is about continuing to protect identity, strengthen communities, and pass knowledge to future generations. 
+  This is done through storytelling, education, and cultural practices. That is how Indigenous People maintain their connections to their land, history, and values, showing strength in the face of ongoing challenges (University of British Columbia, 2023).
 </p>
         </div>
 
