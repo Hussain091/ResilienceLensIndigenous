@@ -3,6 +3,24 @@ import { GraduationCap, AlertCircle, Users, MapPin, Clock } from 'lucide-react';
 export default function Barriers() {
   const challenges = [
     {
+      icon: feather,
+      title: 'The Indian Act',
+      description:
+        'Restricted movement. Banned ceremonies in the year 1876. Gave government control over Indigenous communities. Parts of it are still law today. Set a major barrier for Indigenous communities.',
+    },
+    {
+      icon: school,
+      title: 'Residential Schools',
+      description:
+        '150,000+ children from 1883 to 1996 taken from families. At least 6,000 died. Speaking your own language meant punishment. This was not school. It was erasure. This was one of the biggest barriers placed infront of Indigenous communities.',
+    },
+     {
+      icon: shield-xs,
+      title: 'The Sixties Scoop',
+      description:
+        'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity.',
+    },
+    {
       icon: GraduationCap,
       title: 'Underfunded education and health services',
       description:
@@ -30,6 +48,7 @@ export default function Barriers() {
         'Ongoing development projects and treaty violations continue to threaten Indigenous lands, waters, and traditional territories.',
       stats: 'Many communities lack clean drinking water and face environmental degradation on their lands',
     },
+    
     {
       icon: Clock,
       title: 'Intergenerational trauma from residential schools',
@@ -104,9 +123,9 @@ Even today, Indigenous Peoples in Canada face systemic inequities. Understanding
           </h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-amber-100 text-lg leading-relaxed mb-4">
-              It is important to learn about these challenges not to feel bad for Indigenous communities,
-              but to understand how much strength it takes to keep their culture, identity, and traditions alive.
-              Even with these difficulties, Indigenous communities continue to grow and support each other.
+              The main story told about Indigenous Peoples in Canada for a while has been about problems such as poverty, addiction and crime. When that is all people hear, it gets to easy to blame Indigenous communities for their own struggles.
+              That narrative is not just wrong. It is harmful. It hides who actually caused those problems. Framing Indigenous Peoples as a "problem to be fixed" causes real psychological harm
+    It makes non-Indigenous people feel like nothing needs to change. It ignores 150+ years of laws designed to break communities apart. A resilience lens asks different questions. Why do these problems exist? Who created them? When problems are systemic, solutions need to be systemic too. Not charity. Not pity. Real change.
             </p>
             <p className="text-amber-100 text-lg leading-relaxed">
               They show resilience everyday by protecting their languages, cultures,
