@@ -22,7 +22,8 @@ export default function Home({ onNavigate }: HomeProps) {
             </h1>
             <p className="text-2xl md:text-3xl text-amber-100 font-light">
               Understanding Indigenous Strength in Canada <br/>
-              By: Hussain Khokhawala Student Number: 1013273 <br/>
+              By: Hussain Khokhawala <br/> 
+              Student Number: 1013273 <br/>
             </p>
           </div>
           <div className="mt-8 flex flex-wrap gap-3">
