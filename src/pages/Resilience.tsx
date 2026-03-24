@@ -39,7 +39,7 @@ export default function Resilience() {
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-stone-100">
       <div className="relative h-64 bg-gradient-to-r from-orange-800 to-amber-900">
         <img
-          src="https://images.pexels.com/photos/6207798/pexels-photo-6207798.jpeg?auto=compress&cs=tinysrgb&w=1920"
+          src="https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/print-edition/20170701_AMP001_0.jpg"
           alt="Indigenous art and cultural expression"
           className="absolute inset-0 w-full h-full object-cover opacity-20"
         />
