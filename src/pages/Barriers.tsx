@@ -69,6 +69,13 @@ export default function Barriers() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-stone-100">
       <div className="relative h-64 bg-gradient-to-r from-stone-700 to-amber-900">
+        <div className="relative h-64 bg-gradient-to-r from-stone-700 to-amber-900 overflow-hidden">
+  {/* Background image */}
+  <img
+    src="https://pcweb2.azureedge.net/-/media/WET4/culture/clmhc-hsmbc/sites/pensionnat-kamloops-residential-school.jpg"
+    alt="Indigenous ceremony and community gathering"
+    className="absolute inset-0 w-full h-full object-cover opacity-30"
+  />
         <div className="absolute inset-0 bg-stone-900 opacity-40"></div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
           <div>
