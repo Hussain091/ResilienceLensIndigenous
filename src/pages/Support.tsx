@@ -107,9 +107,9 @@ export default function Support() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
           <p className="text-xl text-stone-700 leading-relaxed">
-            Being an ally means taking action to support Indigenous Peoples so they can find justice,
-            equity, and self determination. Here are meaningful ways you can contribute to supporting
-            Indigenous resilience.
+            Being an ally means to support and be there for something, could be a group, a person or even communities. Being an ally is not about being perfect rather, it is about actually doing something. 
+            Indigenous resilience has always been collective. When non-Indigenous people show up for it, they become part of the story too and help Indigenous communities remain strong and fight inequities. Being an ally consists of listening before you speak, learn before you assume
+            and act even when it is uncomfortable. 
           </p>
         </div>
 
@@ -179,7 +179,7 @@ export default function Support() {
           <h3 className="text-2xl md:text-3xl font-bold text-white mb-4">Take Action Today</h3>
           <p className="text-emerald-50 text-lg max-w-3xl mx-auto">
             Supporting Indigenous resilience is an ongoing commitment. First start with something small, meaningful actions and
-            continue learning and growing as an ally. Remember that this work is about supporting Indigenous
+            continue learning to grow as an ally. Remember that this work is about supporting Indigenous
             leadership and self determination.
           </p>
         </div>
