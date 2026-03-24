@@ -45,12 +45,12 @@ export default function Home({ onNavigate }: HomeProps) {
           </h2>
           <div className="prose prose-lg max-w-none text-stone-700 leading-relaxed">
             <p className="text-xl mb-4">
-             Most people think resilience just means bouncing back (Oxford 2017). For Indigenous Peoples in Canada, it means refusing to disappear. Holding onto culture and language even when the law said you could not
-              Keeping traditions alive for the next generation. Choosing your community over and over, even when systems made that really hard. Through an anti-discriminatory lens, resilience shifts the whole story. Indigenous Peoples are not defined by what happened to them. They are defined by the fact that they kept going anyway.
-              Resilience is not a personality trait. It is a choice communities made for hundreds of years. And no amount of colonial pressure could take that away.
+             Resilience is the process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioral flexibility and adjustment to external and internal demands.
+              A number of factors contribute to how well people adapt to adversities, predominant among them the ways in which individuals view and engage with the world (apa 2014). 
+              It is the ability to "bounce back" from difficult experiences, stress, or failures, making you grow stronger after a setback. 
             </p>
             <p className="text-lg">
-              This website explores the resilience of Indigenous communities, the barriers they face, and how
+              This website explores the resilience of Indigenous communities with an anti opressive lens, the barriers they face, and how
               we can support their ongoing cultural, social, and political strength.
             </p>
           </div>
