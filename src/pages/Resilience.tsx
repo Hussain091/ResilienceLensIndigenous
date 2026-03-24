@@ -53,10 +53,10 @@ export default function Resilience() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
         <p className="text-xl text-stone-700 leading-relaxed mb-6">
-          Resilience for Indigenous Peoples in Canada is the ability to survive and thrive despite centuries of colonization, oppression, and systemic barriers.  For Indigenous Peoples in Canada, it means refusing to disappear.
+          Resilience for Indigenous Peoples in Canada is the ability to survive and go forawrd despite years of colonization, oppression, and systemic barriers.  For Indigenous Peoples in Canada, it means refusing to disappear.
           Holding onto culture and language even when the law said you could not. Keeping traditions alive for the next generation. Choosing your community over and over, even when systems made that really hard
-        Through an anti-discriminatory lens, resilience changes the whole story. Indigenous Peoples are not defined by what happened to them. They are defined by the fact that they kept going anyway.
-          Resilience is not a personality trait. It is a choice communities made for hundreds of years. And no amount of colonial pressure could take that away.
+        Through an anti-discriminatory lens, resilience changes the whole story. Indigenous Peoples are not defined by what happened to them but instead are defined by the fact that they kept going forward.
+          Resilience is not a personality trait but is a choice communities made for hundreds of years and colonial pressure could not take that away despite how hard they tried. Ways of colonial pressure could be found on the barriers tab of this site.
             </p>
 
 <p className="text-lg text-stone-600 leading-relaxed">
