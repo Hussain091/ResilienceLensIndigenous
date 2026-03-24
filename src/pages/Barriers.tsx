@@ -1,21 +1,29 @@
-import { GraduationCap, AlertCircle, Users, MapPin, Clock } from 'lucide-react';
-
+import { 
+  GraduationCap, 
+  AlertCircle, 
+  Users, 
+  MapPin, 
+  Clock,
+  Feather,
+  School,
+  Shield
+} from 'lucide-react';
 export default function Barriers() {
   const challenges = [
     {
-      icon: feather,
+      icon: Feather,
       title: 'The Indian Act',
       description:
         'Restricted movement. Banned ceremonies in the year 1876. Gave government control over Indigenous communities. Parts of it are still law today. Set a major barrier for Indigenous communities.',
     },
     {
-      icon: school,
+      icon: School,
       title: 'Residential Schools',
       description:
         '150,000+ children from 1883 to 1996 taken from families. At least 6,000 died. Speaking your own language meant punishment. This was not school. It was erasure. This was one of the biggest barriers placed infront of Indigenous communities.',
     },
      {
-      icon: shield-xs,
+      icon: Shield-xs,
       title: 'The Sixties Scoop',
       description:
         'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity.',
