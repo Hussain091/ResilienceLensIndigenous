@@ -37,8 +37,8 @@ export default function Resources() {
     },
     {
       citation:
-        'National Centre for Truth and Reconciliation. "Residential School History and Dialogue." University of Manitoba, 2023.',
-      url: 'https://nctr.ca/',
+        '8 Key Issues for Indigenous Peoples in Canada.',
+      url: 'https://www.ictinc.ca/blog/8-key-issues-for-indigenous-peoples-in-canada',
       category: 'Historical Documentation',
     },
     {
