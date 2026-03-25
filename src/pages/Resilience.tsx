@@ -6,25 +6,25 @@ export default function Resilience() {
       icon: MessageCircle,
       title: 'Maintaining language and cultural practices',
       description:
-        'They preserved their languages by teaching them in schools, using them in everyday community life, and passing them down from elders to younger generations.',
+        'They preserved their languages by teaching them in schools, using them in everyday community life, and passing them down from elders to younger generations (“Splash | Assembly of First Nations”).',
     },
     {
       icon: Book,
       title: 'Passing knowledge through storytelling, ceremonies, and art',
       description:
-        'Indigenous people shared traditional knowledge, values, and teachings through oral traditions, cultural events, and artistic expression.',
+        'Indigenous people shared traditional knowledge, values, and teachings through oral traditions, cultural events, and artistic expression (Kesler).',
     },
     {
       icon: Megaphone,
       title: 'Advocating for Indigenous rights and representation',
       description:
-        'They fought for recognition, self-determination, and meaningful participation in decisions affecting Indigenous communities.',
+        'They fought for recognition, self-determination, and meaningful participation in decisions affecting Indigenous communities (Kesler).',
     },
     {
       icon: Heart,
       title: 'Healing from historical trauma',
       description:
-        'They addressed intergenerational impacts of colonization through community healing initiatives and cultural reclamation.',
+        'They addressed intergenerational impacts of colonization through community healing initiatives and cultural reclamation (Kesler).',
     },
   ];
 
@@ -104,7 +104,7 @@ export default function Resilience() {
               that they kept going forward. Resilience is not a personality trait but a choice
               they made for hundreds of years and colonial pressure could not take that away
               despite how hard they tried. Ways of colonial pressure could be found on the barriers
-              tab of this site.
+              tab of this site (Kesler)(Good).
             </p>
             <div className="bg-amber-50 border border-amber-100 rounded-2xl px-6 py-5">
               <p className="text-base sm:text-lg text-stone-600 leading-relaxed">
