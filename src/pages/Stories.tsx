@@ -6,7 +6,7 @@ export default function Stories() {
       icon: Languages,
       title: 'Language Programs',
       description:
-        'Communities across Canada are bringing back Indigenous languages through school programs and apps.',
+        'Communities across Canada are bringing back Indigenous languages through school programs and apps (“Mi’kmaq Introductory Language Course").',
       example: 'Mi\'kmaw language classes in Nova Scotia',
       details:
         'The Mi\'kmaw language program has successfully integrated traditional language instruction into schools, making fluent speakers among young people and preserving a big part of cultural identity.',
@@ -17,7 +17,7 @@ export default function Stories() {
       icon: Palette,
       title: 'Cultural Arts and Ceremonies',
       description:
-        'Indigenous artists, dancers, and musicians preserve cultural traditions and educate the public.',
+        'Indigenous artists, dancers, and musicians preserve cultural traditions and educate the public (Buchanan).',
       example: 'Powwows, traditional drumming, and art exhibitions',
       details:
         'These annual powwows bring Indigenous communities together where they celebrate through dance, music, and art. These gatherings strengthen their connection with culture and share traditions with broader audiences.',
@@ -28,7 +28,7 @@ export default function Stories() {
       icon: Megaphone,
       title: 'Advocacy and Activism',
       description:
-        'Indigenous leaders advocate for land rights, environmental protection, and government recognition.',
+        'Indigenous leaders advocate for land rights, environmental protection, and government recognition (“Splash | Assembly of First Nations”).',
       example: 'Idle No More movement',
       details:
         'The Idle No More movement started as a powerful initiative where Indigenous communities came together to stand up for their rights, protect the environment, and demand respect for treaties. This inspired people around the world to take action as well.',
@@ -38,7 +38,7 @@ export default function Stories() {
     {
       icon: HeartPulse,
       title: 'Healing and Community Programs',
-      description: 'Programs addressing mental health, trauma recovery, and community support.',
+      description: 'Programs addressing mental health, trauma recovery, and community support (Nepinak).',
       example: 'First Nations Wellness Programs',
       details:
         'The community wellness initiatives with the traditional healing practices addressed intergenerational trauma and improved wellbeing.',
