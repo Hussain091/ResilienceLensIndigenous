@@ -15,7 +15,7 @@ export default function Barriers() {
       icon: Feather,
       title: 'The Indian Act',
       description:
-        'Canadian federal law, which governs matters relating to "Status Indians," Indian bands, and Indian reserves. Banned ceremonies in the year 1876. Gave government control over Indigenous communities. Parts of it are still law today. Set a major barrier for Indigenous communities.',
+        'Canadian federal law, which governs matters relating to "Status Indians," Indian bands, and Indian reserves. Banned ceremonies in the year 1876. Gave government control over Indigenous communities. Parts of it are still law today. Set a major barrier for Indigenous communities (Good).',
       stats: undefined,
       number: '01',
     },
@@ -23,7 +23,7 @@ export default function Barriers() {
       icon: School,
       title: 'Residential Schools',
       description:
-        '150,000+ children from 1883 to 1996 taken from families and sent to church-run boarding school system to assimalate them into Euro Canadians. At least 6,000 died. Speaking your own language meant punishment. This was not school. It was erasure. This was one of the biggest barriers placed infront of Indigenous communities.',
+        '150,000+ children from 1883 to 1996 taken from families and sent to church-run boarding school system to assimalate them into Euro Canadians. At least 6,000 died. Speaking your own language meant punishment. This was not school. It was erasure. This was one of the biggest barriers placed infront of Indigenous communities (Good).',
       stats: undefined,
       number: '02',
     },
@@ -71,7 +71,7 @@ export default function Barriers() {
       icon: Clock,
       title: 'Intergenerational trauma from residential schools',
       description:
-        'The legacy of residential schools continues to impact Indigenous families and communities through trauma passed down through generations.',
+        'The legacy of residential schools continues to impact Indigenous families and communities through trauma passed down through generations (Good).',
       stats: 'The last residential school closed in 1996, but healing is an ongoing process',
       number: '08',
     },
