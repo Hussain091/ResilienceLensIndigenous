@@ -235,14 +235,12 @@ export default function Barriers() {
               </h2>
               <div className="w-12 h-0.5 bg-amber-500 mx-auto mb-8" />
               <p className="text-amber-100/90 text-base sm:text-lg leading-relaxed mb-5">
-                The main story told about Indigenous Peoples in Canada for a while has been about
-                problems such as poverty, addiction, and crime. When that is all people hear, it gets
-                too easy to blame Indigenous communities for their own struggles. That narrative is not
-                just wrong, as it hides who actually caused those problems. Framing
-                Indigenous Peoples as a "problem to be fixed" causes real psychological harm. It makes
-                non-Indigenous people feel like nothing needs to change. It ignores 150+ years of laws
-                designed to break communities apart. A resilience lens asks different questions. Why do
-                these problems exist? Who created them? this is why a resilience lens is so important.
+                The main story told about Indigenous people in Canada has been that they are always involved in problems such as poverty, addiction, and crime. 
+                When that's all people hear, they start to blame Indigenous communities for their own struggles. 
+                That narrative is not just wrong, but it also hides who actually caused those problems. Framing Indigenous people as a "problem to be fixed" causes psychological harm to their communities.
+                It makes non-Indigenous people feel like nothing needs to change and ignores years of laws designed to break communities apart. 
+                This is why an anti-oppressive lens is important, as it allows you to ask different questions. Why do these problems exist? Who created them?. 
+                To support Indigenous communities, information can be found on the "How to Support" page. 
               </p>
               
             </div>
