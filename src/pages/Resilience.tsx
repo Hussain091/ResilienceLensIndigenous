@@ -94,26 +94,23 @@ export default function Resilience() {
               Overview
             </p>
             <p className="text-lg sm:text-xl text-stone-700 leading-relaxed mb-6">
-              Resilience for Indigenous Peoples in Canada is the ability to survive and go forward
-              despite years of colonization, oppression, and systemic barriers. For Indigenous
-              Peoples in Canada, it means refusing to disappear. Holding onto culture and language
-              even when the law said you could not. Keeping traditions alive for the next generation.
-              Choosing your community over and over, even when systems made that really hard.
-              Through an anti-discriminatory lens, resilience changes the whole story. Indigenous
-              Peoples are not defined by what happened to them but instead are defined by the fact
-              that they kept going forward. Resilience is not a personality trait but is a choice
-              communities made for hundreds of years and colonial pressure could not take that away
+              Resilience for Indigenous People in Canada is the ability to survive and go forward
+              despite facing years of colonization, oppression, and systemic barriers. For Indigenous
+              People in Canada, resilience means refusing to disappear, holding onto their culture and language
+              even when the law said you could not, keeping traditions alive for the next generation and
+              choosing your community over and over, even when systems made that really hard,
+              Through an anti-discriminatory lens, resilience adds a new perspective. Indigenous
+              People are not defined by what happened to them but instead are defined by the fact
+              that they kept going forward. Resilience is not a personality trait but a choice
+              they made for hundreds of years and colonial pressure could not take that away
               despite how hard they tried. Ways of colonial pressure could be found on the barriers
               tab of this site.
             </p>
             <div className="bg-amber-50 border border-amber-100 rounded-2xl px-6 py-5">
               <p className="text-base sm:text-lg text-stone-600 leading-relaxed">
-                The resilience done is not just about overcoming the past, but instead it is about
-                continuing to protect identity, strengthen communities, and pass knowledge to future
-                generations. This is done through storytelling, education, and cultural practices.
-                That is how Indigenous People maintain their connections to their land, history, and
-                values, showing strength in the face of ongoing challenges (University of British
-                Columbia, 2023).
+                The resilience which Indigenous people in Canada had done was not just about overcoming the past, but rather its about continuing to protect identity, and passing down cultural learnings to future
+                generations. This was and still is done through storytelling, education, and cultural practices. That is how Indigenous communities maintained their connections to their land, history, and
+                values, showing resilience in the face barriers placed.
               </p>
             </div>
           </div>
