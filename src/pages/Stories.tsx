@@ -51,7 +51,7 @@ export default function Stories() {
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-stone-100">
       <div className="relative h-64 bg-gradient-to-r from-amber-900 to-orange-800">
         <img
-          src="https://images.pexels.com/photos/8612967/pexels-photo-8612967.jpeg?auto=compress&cs=tinysrgb&w=1920"
+          src="https://travel.destinationcanada.com/_next/image?url=https%3A%2F%2Fadmin.destinationcanada.com%2Fsites%2Fdefault%2Ffiles%2Fimages%2Farticle%2Fhead-smashed-in_buffalo_jump_header.jpg&w=1920&q=75"
           alt="Indigenous community celebration"
           className="absolute inset-0 w-full h-full object-cover opacity-20"
         />
