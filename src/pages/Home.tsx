@@ -48,7 +48,7 @@ export default function Home({ onNavigate }: HomeProps) {
             <p className="text-xl mb-4">
              Resilience is the process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioral flexibility and adjustment to external and internal demands.
               A number of factors contribute to how well people adapt to adversities, predominant among them the ways in which individuals view and engage with the world (apa 2014). 
-              It is the ability to "bounce back" from difficult experiences, stress, or failures, making you grow stronger after a setback. 
+              It is the ability to "bounce back" from difficult experiences, stress, or failures, making you grow stronger after a setback (American Psychological Association).
             </p>
             <p className="text-lg">
               This website explores the resilience of Indigenous communities with an anti opressive lens, the barriers they face, and how
