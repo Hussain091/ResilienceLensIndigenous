@@ -108,9 +108,9 @@ export default function Resilience() {
             </p>
             <div className="bg-amber-50 border border-amber-100 rounded-2xl px-6 py-5">
               <p className="text-base sm:text-lg text-stone-600 leading-relaxed">
-                The resilience which Indigenous people in Canada had done was not just about overcoming the past, but rather its about continuing to protect identity, and passing down cultural learnings to future
-                generations. This was and still is done through storytelling, education, and cultural practices. That is how Indigenous communities maintained their connections to their land, history, and
-                values, showing resilience in the face barriers placed.
+                This shows why resilience is important as it allows Indigenous communities in Canada to preserve their identity 
+                and maintain their cultural heritage despite historical and ongoing challenges. 
+                This is done through storytelling, education, and cultural practices, resilience ensures that knowledge, traditions, and values are passed down to future generations while strengthening community connections to the land, history, and each other.
               </p>
             </div>
           </div>
