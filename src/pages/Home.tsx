@@ -21,7 +21,7 @@ export default function Home({ onNavigate }: HomeProps) {
               Resilience
             </h1>
             <p className="text-2xl md:text-3xl text-amber-100 font-light">
-              Understanding Indigenous Strength in Canada <br/>
+              Understanding Indigenous Resilience in Canada <br/>
               By: Hussain Khokhawala <br/> 
             </p>
           </div>
@@ -42,7 +42,7 @@ export default function Home({ onNavigate }: HomeProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-6">
-            Welcome to Resilience: Indigenous Strength in Canada
+            Resilience: Indigenous Strength in Canada
           </h2>
           <div className="prose prose-lg max-w-none text-stone-700 leading-relaxed">
             <p className="text-xl mb-4">
