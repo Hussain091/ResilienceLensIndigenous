@@ -238,18 +238,13 @@ export default function Barriers() {
                 The main story told about Indigenous Peoples in Canada for a while has been about
                 problems such as poverty, addiction, and crime. When that is all people hear, it gets
                 too easy to blame Indigenous communities for their own struggles. That narrative is not
-                just wrong. It is harmful. It hides who actually caused those problems. Framing
+                just wrong, as it hides who actually caused those problems. Framing
                 Indigenous Peoples as a "problem to be fixed" causes real psychological harm. It makes
                 non-Indigenous people feel like nothing needs to change. It ignores 150+ years of laws
                 designed to break communities apart. A resilience lens asks different questions. Why do
-                these problems exist? Who created them? When problems are systemic, solutions need to
-                be systemic too. Not charity. Not pity. Real change.
+                these problems exist? Who created them? this is why a resilience lens is so important.
               </p>
-              <p className="text-amber-100/90 text-base sm:text-lg leading-relaxed">
-                They show resilience every day by protecting their languages, cultures, and ways of
-                life. This shows strength, determination, and the ability to keep going even when
-                facing unfair challenges.
-              </p>
+              
             </div>
           </div>
         </div>
