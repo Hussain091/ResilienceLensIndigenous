@@ -31,7 +31,7 @@ export default function Barriers() {
       icon: UserX,
       title: 'The Sixties Scoop',
       description:
-        'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity.',
+        'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity (Na'kuset City News).',
       stats: undefined,
       number: '03',
     },
@@ -39,7 +39,7 @@ export default function Barriers() {
       icon: GraduationCap,
       title: 'Underfunded education and health services',
       description:
-        'Many Indigenous communities face significant gaps in access to quality education and healthcare compared to non-Indigenous Canadians.',
+        'Many Indigenous communities face significant gaps in access to quality education and healthcare compared to non-Indigenous Canadians (Joseph).',
       stats: 'Indigenous students often attend schools with fewer resources and outdated infrastructure',
       number: '04',
     },
@@ -47,7 +47,7 @@ export default function Barriers() {
       icon: AlertCircle,
       title: 'Racism and discrimination in daily life',
       description:
-        'Indigenous Peoples continue to experience systemic racism in employment, healthcare, justice systems, and public spaces.',
+        'Indigenous Peoples continue to experience systemic racism in employment, healthcare, justice systems, and public spaces (Joseph).',
       stats: 'Indigenous people are overrepresented in the criminal justice system and face bias in many institutions',
       number: '05',
     },
@@ -55,7 +55,7 @@ export default function Barriers() {
       icon: Users,
       title: 'Limited political representation',
       description:
-        'Despite being the original inhabitants of this land, Indigenous Peoples often lack meaningful representation in decision-making processes.',
+        'Despite being the original inhabitants of this land, Indigenous Peoples often lack meaningful representation in decision-making processes (“Splash | Assembly of First Nations”).',
       stats: 'Many policies affecting Indigenous communities are made without proper consultation or consent',
       number: '06',
     },
@@ -63,7 +63,7 @@ export default function Barriers() {
       icon: MapPin,
       title: 'Loss of land and resources',
       description:
-        'Ongoing development projects and treaty violations continue to threaten Indigenous lands, waters, and traditional territories.',
+        'Ongoing development projects and treaty violations continue to threaten Indigenous lands, waters, and traditional territories (Benoit).',
       stats: 'Many communities lack clean drinking water and face environmental degradation on their lands',
       number: '07',
     },
@@ -79,7 +79,7 @@ export default function Barriers() {
  
   const statHighlights = [
     { value: '35–60%', label: 'of the homeless population in Western Canada is Indigenous' },
-    { value: '3×', label: 'higher suicide rates in some Indigenous communities vs national average' },
+    { value: '3×', label: 'higher suicide rates in some Indigenous communities vs national average (Connors)' },
     { value: '150+', label: 'years of colonial policies and systemic inequality behind these challenges' },
   ];
  
