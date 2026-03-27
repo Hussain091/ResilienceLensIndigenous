@@ -31,7 +31,7 @@ export default function Barriers() {
       icon: UserX,
       title: 'The Sixties Scoop',
       description:
-        'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity (Na'kuset City News).',
+        'Thousands of Indigenous kids in the years 1960s to 1980s were removed from homes, adopted into non-Indigenous families. A whole generation grew up disconnected from their culture and identity (Nakuset City News).',
       stats: undefined,
       number: '03',
     },
